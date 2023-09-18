@@ -95,3 +95,5 @@ function git_prompt_info() {
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+source /etc/custom-zshrc.sh
